@@ -1,0 +1,20 @@
+! 2022-04-20 https://www.youtube.com
+www.youtube.com##ytd-rich-grid-row.ytd-rich-grid-renderer.style-scope > .ytd-rich-grid-row.style-scope
+www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
+www.youtube.com###scroll-container > .ytd-feed-filter-chip-bar-renderer.style-scope
+www.youtube.com##ytd-continuation-item-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(1)
+www.youtube.com##.ytd-consent-bump-v2-renderer.style-scope
+www.youtube.com##.opened
+
+! 2022-04-20 https://m.youtube.com
+m.youtube.com##ytm-feed-filter-chip-bar-renderer
+m.youtube.com##ytm-rich-grid-renderer
+m.youtube.com##.consent-bump-v2-lightbox
+m.youtube.com##.pivot-explore
+
+! 2022-04-20 https://soundcloud.com
+soundcloud.com##.trendingTracks
+soundcloud.com##.l-inner-fullwidth.l-front-mobile-teaser
+soundcloud.com##.frontHero__connectSlide--backgroundFeaturedArtists.frontHero__connectSlide.frontHero__content
+soundcloud.com##.l-inner-fullwidth.l-front-osc-teaser
+
