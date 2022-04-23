@@ -9,7 +9,6 @@ www.youtube.com##.opened
 ! 2022-04-20 https://m.youtube.com
 m.youtube.com##ytm-feed-filter-chip-bar-renderer
 m.youtube.com##ytm-rich-grid-renderer
-m.youtube.com##.consent-bump-v2-lightbox
 m.youtube.com##.pivot-explore
 
 ! 2022-04-20 https://soundcloud.com
